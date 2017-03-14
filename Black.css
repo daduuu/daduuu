@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+body {
+	background-color: #000000;
+	font-family: 'Open Sans Condensed';
+}
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 8em;
+}
+#second {
+	background-color: #ffffff;
+	color: #000000;
+	border-radius: 0;
+	border-color: #ffefff;
+	width: 10em;
+	font-size: 2em;
+	transition: all 0.5s;
+}
+#second:hover
+{
+  text-decoration: none;
+  color: #ffffff;
+  border-color: #000000;
+  background-color: #000000;
+}
+#q {
+	text-align: center;
+	margin:0 auto;
+}
+.picb {
+	width: 30em;
+	height: 30em;
+}
+.pic2 {
+	margin-left: 42em;
+	margin:0 auto;
+	text-align: center;
+}
+h3 {
+	text-align: center;
+	color: white;
+	
+}
+.bb {
+	background-color: #ffffff;
+	color: #000000;
+	border-radius: 0;
+	border-color: #ffefff;
+	width: 20em
+}
+#d22 {
+	text-align: center;
+	font-size: 2em;
+}
+.pb
+{
+	text-align: center;
+	color: white;
+	font-size: 2em;
+}
+#form2 {
+	color: #000000;
+  width: 10em;
+  font-size: 2em;
+  background-color: #ffffff;
+  border-radius: 0;
+  transition: all 0.5s;
+  font-size: 2em;
+  font-weight: 300px
+}
+#form2:hover 
+{
+  color: #ffffff;
+  border-color: #000000;
+  background-color: #000000;
+  font-weight: 200px;
+}
+#d4 {
+	text-align: center;
+}

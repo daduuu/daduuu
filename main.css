@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+
+
+
+body {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 8em;
+}
+p {
+	text-align: center;
+	font-size: 2em;
+}
+#first
+{
+  color: #ffffff;
+  width: 10em;
+  font-size: 2em;
+  background-color: #000000;
+  border-radius: 0;
+  transition: all 0.5s;
+  font-size: 2em;
+  font-weight: 300px
+  
+}
+
+#first:hover 
+{
+  color: #000000;
+  border-color: #ffffff;
+  background-color: #ffffff;
+  font-weight: 200px;
+}
+.aa {
+	width: 20em;
+	height: 25em;
+}
+.w {
+	margin:0 auto;
+	text-align: center;
+}
+.pic1 {
+	margin-left: 42em;
+	margin:0 auto;
+	text-align: center;
+}
+.d3 {
+	color: white;
+	text-align: center;
+}
+.bf {
+	background-color: #000000;
+	color: white;
+	border-radius: 0;
+	border-color: #300000;
+	width: 10em
+}
+#d23 {
+	text-align: center;
+	font-size: 2em;
+}
+.p2
+{
+	text-align: center;
+	font-size 2em;
+	color:#000000;
+}
+#form {
+	color: #ffffff;
+  width: 10em;
+  font-size: 2em;
+  background-color: #000000;
+  border-radius: 0;
+  transition: all 0.5s;
+  font-size: 2em;
+  font-weight: 300px
+}
+#form:hover 
+{
+  color: #000000;
+  border-color: #ffffff;
+  background-color: #ffffff;
+  font-weight: 200px;
+}
+#d3 {
+	text-align: center;
+}
